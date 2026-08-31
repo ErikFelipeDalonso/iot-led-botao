@@ -38,15 +38,3 @@ O LED foi conectado ao circuito utilizando um resistor para limitar a corrente. 
 Após a montagem do circuito, foi desenvolvido um programa para que o Arduino verificasse o estado do botão e controlasse o LED.
 
 Quando o botão é pressionado, o LED acende. Quando o botão é solto, o LED apaga.
-
-## Resultado esperado
-
-O circuito deve funcionar de forma que:
-
-- O botão controla o LED;
-- Ao pressionar o botão, o LED acende;
-- Ao soltar o botão, o LED apaga.
-
-## Conclusão
-
-A atividade permitiu compreender, de forma prática, como utilizar um botão como entrada e um LED como saída em um projeto com Arduino.
